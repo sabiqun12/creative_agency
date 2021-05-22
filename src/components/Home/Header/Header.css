@@ -1,0 +1,20 @@
+.header-container {
+    background-color: #FBD062;
+    width: 1550px;
+    height: 600px;
+}
+.logo{
+   position: absolute;
+   width: 150px;
+   height: 47px;
+   left: 137px;
+   top: 28px;     
+}
+
+.brand-color{
+    background-color: #111430;
+    width: 134px;
+    height: 45px;
+    
+}
+

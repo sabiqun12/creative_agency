@@ -1,0 +1,16 @@
+.footer-container{
+    margin-top:140px;
+    width: 1560px;
+    height: 500px;
+    background-color: #FBD062;
+}
+.form-group{
+    width: 610px;
+}
+.brand-color{
+    background-color: #111430;
+    width: 134px;
+    height: 45px;
+    border-radius: 4px;
+    
+}
